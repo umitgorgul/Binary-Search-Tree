@@ -9,3 +9,5 @@ Rootun solunda 0,1,2,3,4,5i6 sağında 8,9 bulunur.
                                      1  6     9
                                    0   3
                                      2   4
+
+www.patika.dev
